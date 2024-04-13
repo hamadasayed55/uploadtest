@@ -27,7 +27,7 @@
   <Actions Context="Author">
     <Exec>
       <Command>aws</Command>
-      <Arguments>s3 cp C:\Users\Dosec101\Desktop\users.txt s3://testhamadatest</Arguments>
+      <Arguments>s3 cp C:\Users\Dosec101\Desktop\users.txt s3://testhamadatest1</Arguments>
     </Exec>
   </Actions>
 </Task>
